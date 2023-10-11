@@ -1,0 +1,24 @@
+ 
+# dependencies
+/node_modules
+/ahmad-web/node_modules
+/ahmad-web/.pnp
+/ahmad-web/.pnp.js
+
+# testing
+/ahmad-web/coverage
+
+# production
+/ahmad-web/build
+
+# misc
+/backend/config/config.env
+/ahmad-web/.DS_Store
+/ahmad-web/.env.local
+/ahmad-web/.env.development.local
+/ahmad-web/.env.test.local
+/ahmad-web/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
